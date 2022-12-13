@@ -1,0 +1,100 @@
+﻿/*=============================================================
+    Authour URI: www.binarytheme.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% Free To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITs AND TELL YOUR FRIENDS ABOUT US
+   
+    ========================================================  */
+
+/* =============================================================
+   GENERAL STYLES
+ ============================================================ */
+ h1 {
+color:#ed6337;
+}
+
+/* =============================================================
+  BUTTON SECTION STYLES
+ ============================================================ */
+.custom-btn-one {
+   border-color: #ed6337;
+}
+   
+/* =============================================================
+  HOME SECTION STYLES
+ ============================================================ */
+
+ #home-sec .main-img {     
+   border:5px solid #ed6337;
+}
+ #home-sec .main-img-2 {
+   border:5px solid #ed6337;
+}
+    .icon-round:hover {
+        background-color:#ed6337;
+    }
+
+.icon-round-active {
+      background-color:#ed6337;
+}
+
+
+/* =============================================================
+  SKILL SECTION STYLES ( easy-pie-chart css)
+ ============================================================ */
+    #skill-sec h4 {
+color:#ed6337;
+}
+      /* =============================================================
+  DOWNLOAD SECTION STYLES
+ ============================================================ */
+.board .tab-content i {
+    color: #ed6337;
+}
+
+  /*=====================================
+  TESTIMONIALS STYLES 
+    ===================================*/
+
+    /*#testimonial-main img {
+        border:3px solid #ed6337;
+    }*/
+    /*=====================================
+  PORTFOLIO STYLES 
+    ===================================*/
+
+.portfolio-sec-wrap .overlay {
+    background-color: #ed6337;
+}
+
+ /*=====================================
+  FOOTER STYLES 
+    ===================================*/
+#footer-sec h3{
+    color: #ed6337;
+}
+#footer-sec i{
+    color: #ed6337;
+}
+ /*=====================================
+  SCROLLUP STYLES 
+    ===================================*/
+a.scrollup {
+background: #ed6337;
+
+}
+
+
+ol.type li a.active {
+	color: #ed6337;
+	border-bottom: 1px solid #f7b49d;
+	text-decoration: none;
+}
+ol.type li a:hover {
+	color: #ed6337;
+	border-bottom: 1px solid #f7b49d;
+	text-decoration: none;
+}
